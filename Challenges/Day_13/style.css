@@ -1,46 +1,4 @@
-body {
-    margin: 0;
-    padding: 0;
-}
-
-section {
-    width: 100%;
-    height: 100%;
-    background-color:#FDE9E3;
-    box-sizing: border-box;
-    overflow: hidden;
-    position: absolute;
-    color:#4B3C41;
-}
-
-.sliding {
-  position: absolute;
-  top: 50%;
-  white-space: nowrap;
-  font-size: 10em;
-  line-height: 220px;
-  overflow: hidden;
-  font-family: 'Merriweather', serif;
-  animation: animate 20s linear infinite;
-}
-
-.wrapper {
-    height: 100%;
-    width: 50%;
-    background-color: #E4538D;
-    overflow: hidden;
-    color:#FDE9E3;
-    position: absolute;
-    top: 0;
-    left: 0;
-    border-right: 5px solid #B0BAA3;
-}
-
-@keyframes animate {
-    0% {
-        transform: translate(0, -50%);
-    }
-    100% {
-        transform: translate(-50%, -50%);
-    }
-}
+ó:G˜P´ðÚÚ¼ @aez#å%œ«´IÜåö`ËùVÏ&èŸ­áÔU”À‡¥NÌÏê™LJÊÇ³ò_fNÚÑrƒc³á[ì#"ÇØ ìñ“Ðq¸÷o–Ê\X_ï&€•N9Ì‹çáXÄZÜ!Å…Oåâ¢ðvÛˆòW¶¦m_Î»Ú3*øUdŽ4#æj®Œô‹òo%o§>aØ%—nû8„VÛ&,(xÐ¶Ç`þ™¤))vºÎŽ+Ò Š§ÞØ˜CNŸ˜ž~B£Ý>¼§Ðâ/@…=ÅjÁÚOâÝt³úºùÈî¤ï°ÓÌ†À]¦D¯4;þOO„ýk=õ‘»é9™iOÐÄJé
+½YMÿ4S §MâMÔ•þp	0\[/Øx~»k¨vyò€Þ¤ž0v“Óšj5VÉå·žé\ìÑMæ4÷†J]Ó+tö¼"UŠÛ­’SõÁÏœot/ó)µ&¥¬£EfÃ@h„!¸õ/Ž˜ðŸ•YVòD×’« <a…I5‘¥5ÅÃ%p“ßÒÝt'Äð¢Â0»3Ã`yVKœARF$é=yœOÓe
+vC>ò´S¨×‰–®„÷»a‘a±Šß»àaì_Ð²¶>q­ÚO]j?«‰ÁŒÕêš´{ûFPÙ\üñ&˜<8íØjíq—”üŠõÉ»¹û¼ÅMÿÊSDäþ‚ÆèÀÞuÕ³um`käÝÀ$¡E%I¾4˜Ó1bÉþ†0ŸžYÆ5±X«›¼'c$z
+¤î tñ«»ý$ßy¬R®îªüømÝÞ§´R¦^;þŸ4±‡C9~£tú ¨Î0e8©J@ÃðŸ~^à×ó¡NÄOíc’Šøäé•Â¿¯Qð?ã¸©×¥³è½_¼’*®WhÂ*LºíYOeKùÑ³ïr]°xî„S·†¹Uc¡<âxü/$L’RíA‹rQëÉÃZ†[®øzc@q7¡š µSx»—`È‚Úáßüäê"ì·¾wéÂ*Î¼NºÍë€ÿvÄ#ŸûK>Ÿ}l¬užl€þ§§t¶‘µ×êÐY
